@@ -1,5 +1,15 @@
 <resources>
-    <string name="app_name">LoveTest</string>
-    <string name="main_title">Let\'s find out\nyour love type!</string>
-    <string name="question">There were favorite flowers\nin the flower base.\nAs time goes, the flowers have all withered.\nWhat are you going to do with that?</string>
+    <string name="app_name">Test</string>
+    <string name="main_title">간단한 심리테스트로\n 알아보는 나의 단점</string>
+    <string name="question">서커스단의 단원이 된 당신\n1년 뒤 당신은 서커스단에서 어떤 역할을 하고 있을까?</string>
+
+    <string name="magician">가식이 없어서 좋고 싫음이 자연스럽게 나타납니다.
+        대체적으로 직설적인 화법을 가진 사람이기도 하며,
+        간혹 매사에 확실한 것도 좋지만 때로는 부드러운 말과 융통성을 가지는 것도 좋아요!</string>
+    <string name="clown">다른 사람들의 부탁을 잘 거절하지 못하고, 많은 사람이 있을 때 자기 주장보다 다른 사람의 의견에 따르는 경우가 많아요. 간혹 자신의 말이 무시당할까 조심스럽고
+    말을 하고 나서도 실수하지 않았을까 걱정하기도 합니다. 무엇보다 자신감이 필요해요.</string>
+    <string name="model">자신의 능력을 잘 믿지 못하고 자기 일에 만족을 못 하고 있어요. 자신보다 뛰어난 사람을 보면 주눅 들고 기가 죽으며 자책을 많이 하는 편입니다. 간혹 비아냥을 듣거나
+    뒷북을 치는 타입이지만 자신의 능력을 의심하지 말고 강하게 밀고 나가 보세요.</string>
+    <string name="circusstunt">늘 시작은 기세등등하지만 끈기가 약하고 마무리가 안 되고 일을 자주 뒤로 미루는 경향이 있습니다. 또한 결정을 잘 못 하는 타입이고 짜증이 많으며
+    겁이 많아 걱정부터 앞서는 경우가 많죠. 조금만 더 여유를 갖고 생각하고 행동하면 최고가 될 수 있어요.</string>
 </resources>

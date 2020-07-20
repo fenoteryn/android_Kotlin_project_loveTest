@@ -16,7 +16,8 @@
         app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintTop_toTopOf="parent"
         >
-
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
         <TextView
             android:id="@+id/option_1"
             android:layout_width="match_parent"
@@ -24,7 +25,7 @@
             android:layout_weight="1"
             android:background="@drawable/selection"
             android:gravity="center"
-            android:text="1. Throw it away."
+            android:text="1. 수리수리 마수리 마술사"
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
             />
@@ -36,7 +37,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/selection"
                 android:gravity="center"
-                android:text="2. Water the flowers."
+                android:text="2. 분장을 하고 저글링을 하는 삐에로"
                 android:layout_marginBottom="10dp"
             />
 
@@ -47,7 +48,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/selection"
                 android:gravity="center"
-                android:text="3. Cut it off with sissors."
+                android:text="3. 화려하게 줄타기와 기술을 보여주는 곡예사"
                 android:layout_marginBottom="10dp"
             />
 
@@ -58,9 +59,10 @@
                 android:layout_weight="1"
                 android:background="@drawable/selection"
                 android:gravity="center"
-                android:text="4. Make them as dried flower."
+                android:text="4. 사자와 호랑이를 단숨에 제압하는 맹수조련사"
                 android:layout_marginBottom="10dp"
             />
+
     </LinearLayout>
 
 <ImageView
