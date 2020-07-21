@@ -1,6 +1,6 @@
 # android_Kotlin_project_Test
 
-Screenshots
+20200716-20200720, android Kotlin
 -----------
 ![Test_main](https://user-images.githubusercontent.com/56014948/87907098-e727a500-ca9e-11ea-9b13-7900a5ce0eb4.png)
 ![Test_next](https://user-images.githubusercontent.com/56014948/87907099-e858d200-ca9e-11ea-9e82-f96feca40b8a.png)
